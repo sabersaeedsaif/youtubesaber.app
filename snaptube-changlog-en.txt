@@ -1,1 +1,11 @@
+Version 7.30 Changelog:
 
+>[Fixed] a crash when updating the follower list
+>Premium Unlocked
+>No Ads
+>Download videos from Youtube, Facebook, Instagram
+>All free
+>Download videos at different resolutions
+>Safe, without keyloggers or malware
+>Manage videos on the phone
+>Download mp3 file, split mp3 file from video
