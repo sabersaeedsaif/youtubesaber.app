@@ -1,4 +1,4 @@
-Version 30.30 Changelog:
+Version 6.31 Changelog:
 
 >[Fixed] a crash when updating the follower list
 >Premium Unlocked
