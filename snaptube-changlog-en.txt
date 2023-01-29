@@ -1,4 +1,4 @@
-Version 6.28.1.6210401 Changelog:
+Version 6.35 Changelog:
 
 >[Fixed] a crash when updating the follower list
 >Premium Unlocked
